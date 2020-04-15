@@ -1,0 +1,7 @@
+.project
+.settings/org.eclipse.m2e.core.prefs
+q-demo/.settings/
+*.classpath
+q-demo/target/
+q-rest-framework/.settings/
+q-rest-framework/target/
