@@ -2,9 +2,9 @@
 
 - 0行代码实现增删查改
 >GET /student:列出所有学生<br>
-GET /student/ID：获取某个学生<br>
+GET /student/ID:获取某个学生<br>
 POST /student:新建/更新一个学生<br>
-DELETE /student/ID：删除某个学生
+DELETE /student/ID:删除某个学生
 
 - 0行代码实现单表大部分查询功能
 >//支持EQ(等于), NE(不等于), LIKE, GT(大于), LT(小于), GTE(大于等于), LTE(小于等于), IN<br>
