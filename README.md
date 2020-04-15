@@ -49,9 +49,9 @@ public List<ScoreVO> findVOByFilter(Map<String, Object> filter,Integer pageIndex
 }
 ```
 - 6行代码实现主从关联
-> //有订单表,订单详情表
-//Bill--id-billId--BillDetail
-//BillDetail作为从表一起被加载
+> //有订单表,订单详情表<br>
+//Bill--id-billId--BillDetail<br>
+//BillDetail作为从表一起被加载<br>
 GET http://www.hmq123.cn:8081/bill/vo
 ```
 @Override
